@@ -1,3 +1,9 @@
 [submodule "Data-Science/House_price_Prediction"]
 	path = Data-Science/House_price_Prediction
 	url = https://github.com/shaikshakeela-netizen/House_price_Prediction.git
+[submodule "Data-Science/Breast_Cancer_detection"]
+	path = Data-Science/Breast_Cancer_detection
+	url = https://github.com/shaikshakeela-netizen/Breast_Cancer_detection.git
+[submodule "Data-Science/Movie_Recommendation"]
+	path = Data-Science/Movie_Recommendation
+	url = https://github.com/shaikshakeela-netizen/Movie_Recommendation.git
