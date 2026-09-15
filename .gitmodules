@@ -40,3 +40,6 @@
 [submodule "Web-Development/CHEZZION_"]
 	path = Web-Development/CHEZZION_
 	url = https://github.com/shaikshakeela-netizen/CHEZZION_.git
+[submodule "Web-Development/Photo_Studio"]
+	path = Web-Development/Photo_Studio
+	url = https://github.com/shaikshakeela-netizen/Photo_Studio.git
