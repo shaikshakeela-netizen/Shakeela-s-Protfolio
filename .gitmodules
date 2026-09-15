@@ -7,3 +7,6 @@
 [submodule "Data-Science/Movie_Recommendation"]
 	path = Data-Science/Movie_Recommendation
 	url = https://github.com/shaikshakeela-netizen/Movie_Recommendation.git
+[submodule "Data-Science/Credir_Card_Fraud_detection"]
+	path = Data-Science/Credir_Card_Fraud_detection
+	url = https://github.com/shaikshakeela-netizen/Credir_Card_Fraud_detection.git
