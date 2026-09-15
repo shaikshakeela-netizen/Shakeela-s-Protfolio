@@ -16,3 +16,6 @@
 [submodule "Data-Analytics/Swiggy_Analysis_Using_Excel"]
 	path = Data-Analytics/Swiggy_Analysis_Using_Excel
 	url = https://github.com/shaikshakeela-netizen/Swiggy_Analysis_Using_Excel.git
+[submodule "Data-Analytics/SWIGGY_ANALYSIS_USING_SQL"]
+	path = Data-Analytics/SWIGGY_ANALYSIS_USING_SQL
+	url = https://github.com/shaikshakeela-netizen/SWIGGY_ANALYSIS_USING_SQL.git
