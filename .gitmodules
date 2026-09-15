@@ -1,0 +1,3 @@
+[submodule "Data-Science/House_price_Prediction"]
+	path = Data-Science/House_price_Prediction
+	url = https://github.com/shaikshakeela-netizen/House_price_Prediction.git
