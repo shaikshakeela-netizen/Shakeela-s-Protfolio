@@ -19,3 +19,6 @@
 [submodule "Data-Analytics/SWIGGY_ANALYSIS_USING_SQL"]
 	path = Data-Analytics/SWIGGY_ANALYSIS_USING_SQL
 	url = https://github.com/shaikshakeela-netizen/SWIGGY_ANALYSIS_USING_SQL.git
+[submodule "Data-Analytics/Airline_Route_Analysis"]
+	path = Data-Analytics/Airline_Route_Analysis
+	url = https://github.com/shaikshakeela-netizen/Airline_Route_Analysis.git
