@@ -25,3 +25,6 @@
 [submodule "Data-Analytics/Insurance_Risk_Analysis"]
 	path = Data-Analytics/Insurance_Risk_Analysis
 	url = https://github.com/shaikshakeela-netizen/Insurance_Risk_Analysis.git
+[submodule "Data-Science/Student_performance_tracker"]
+	path = Data-Science/Student_performance_tracker
+	url = https://github.com/shaikshakeela-netizen/Student_performance_tracker.git
