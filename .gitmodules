@@ -10,3 +10,6 @@
 [submodule "Data-Science/Credir_Card_Fraud_detection"]
 	path = Data-Science/Credir_Card_Fraud_detection
 	url = https://github.com/shaikshakeela-netizen/Credir_Card_Fraud_detection.git
+[submodule "Data-Science/Weather_Forecast"]
+	path = Data-Science/Weather_Forecast
+	url = https://github.com/shaikshakeela-netizen/Weather_Forecast.git
