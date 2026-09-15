@@ -28,3 +28,6 @@
 [submodule "Data-Science/Student_performance_tracker"]
 	path = Data-Science/Student_performance_tracker
 	url = https://github.com/shaikshakeela-netizen/Student_performance_tracker.git
+[submodule "Programming/Industry-SQL-Arsenal"]
+	path = Programming/Industry-SQL-Arsenal
+	url = https://github.com/shaikshakeela-netizen/Industry-SQL-Arsenal.git
