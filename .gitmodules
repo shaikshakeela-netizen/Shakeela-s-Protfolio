@@ -37,3 +37,6 @@
 [submodule "Web-Development/Grandma-s_Pickle"]
 	path = Web-Development/Grandma-s_Pickle
 	url = https://github.com/shaikshakeela-netizen/Grandma-s_Pickle.git
+[submodule "Web-Development/CHEZZION_"]
+	path = Web-Development/CHEZZION_
+	url = https://github.com/shaikshakeela-netizen/CHEZZION_.git
