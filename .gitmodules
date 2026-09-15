@@ -13,3 +13,6 @@
 [submodule "Data-Science/Weather_Forecast"]
 	path = Data-Science/Weather_Forecast
 	url = https://github.com/shaikshakeela-netizen/Weather_Forecast.git
+[submodule "Data-Analytics/Swiggy_Analysis_Using_Excel"]
+	path = Data-Analytics/Swiggy_Analysis_Using_Excel
+	url = https://github.com/shaikshakeela-netizen/Swiggy_Analysis_Using_Excel.git
