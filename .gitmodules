@@ -31,3 +31,6 @@
 [submodule "Programming/Industry-SQL-Arsenal"]
 	path = Programming/Industry-SQL-Arsenal
 	url = https://github.com/shaikshakeela-netizen/Industry-SQL-Arsenal.git
+[submodule "Programming/Leetcode_Problems"]
+	path = Programming/Leetcode_Problems
+	url = https://github.com/shaikshakeela-netizen/Leetcode_Problems.git
